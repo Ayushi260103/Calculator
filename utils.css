@@ -1,0 +1,24 @@
+.text-center{
+    text-align: center;
+}
+.container{
+    margin: auto ;
+    /* background-color: black; */
+    background-image: url("https://media.istockphoto.com/id/1366067256/photo/abstract-flowing-color-cloth-background.jpg?b=1&s=170667a&w=0&k=20&c=bdkq_bfoS9eLaxTe7KTD8I5gGzrX03x8LEvPh_y5xfA=");
+    background-position: center;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.mx-30{
+    max-width: 370px;
+}
+.flex{
+    display: flex;
+} 
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
